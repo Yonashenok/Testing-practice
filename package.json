@@ -7,8 +7,7 @@
     "test": "jest --coverage",
     "watch": "webpack --watch",
     "start": "webpack serve --open",
-    "build": "webpack",
-    "deploy": "gh-pages -d dist"
+    "build": "webpack"
   },
   "keywords": [],
   "author": "yonas henok",
