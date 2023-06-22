@@ -1,4 +1,4 @@
-import calculator from './tesk3';
+import calculator from './tesk3.js';
 
 describe('add', () => {
   it('should return correct answer', () => {

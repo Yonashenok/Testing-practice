@@ -1,4 +1,4 @@
-import stringLength from './tesk1';
+import stringLength from './tesk1.js';
 
 it('should return correct number of character in string', () => {
   const char = 'yonas';
